@@ -1,0 +1,24 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+*.md
+docs/
+
+# Docker
+docker-compose.yml
+
+# Archives (already extracted or not needed in image)
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test scripts (not needed in container)
+scripts/test-deployment.sh

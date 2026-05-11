@@ -1,0 +1,25 @@
+# Docker
+postgres_data/
+pgadmin_data/
+
+# Archives
+*.tar.gz
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Backup files
+backup*.sql
+*.bak
